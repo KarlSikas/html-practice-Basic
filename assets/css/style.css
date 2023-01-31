@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+
+}
+
+#course-list {
+    margin-left: 75%;
+    margin-top: -25%;
+}
+
+.hide-me{
+    display: none;
+}
+
+bold-orange{
+    color: orange;
+    font-weight: bold;
+}
+
+.underline-me{
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
